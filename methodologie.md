@@ -2,9 +2,6 @@ Ateliers Dat'accélère : méthodologie des ateliers
 ---
 
 
-# Contexte : les données, un continent encore trop méconnu
-
-
 ## La réutilisation des données : un parcours du combattant pour les novices
 
 Notre expérience, à travers notamment l’organisation de la [Data Literacy Conference](http://dataliteracyconference.net/2018/), nous a montré que la compréhension des données reste une compétence encore mal répandue dans les organisations. Souvent, nous entendons que les données sont arides, froides ou ennuyeuses, que “ce n’est pas pour moi” ou que c’est “trop technique”. 
@@ -15,7 +12,7 @@ Le premier est celui de la **découvrabilité** : à l’heure actuelle, les don
 
 Le deuxième obstacle majeur est celui de la **documentation** des données. Beaucoup de données sont accompagnées d’une description très réduite. Dans une étude portant sur les portails 12 villes majeures en France, une [étude de Datactivist](https://medium.com/datactivist/qui-a-ouvert-quoi-le-recensement-des-données-des-villes-est-maintenant-ouvert-b7f697135c1f) a montré que la moitié des descriptions des jeux de données faisait moins de 180 caractères (soit un peu moins de la longueur d’un tweet) et 4% des jeux de données ont une description supérieure à 1000 caractères soit moins d’une demi-page. Dans ces conditions, il est très difficile pour un usager de comprendre ce que contient le jeu de données, ses conditions de production des données et ses limites. 
 
-Enfin, le troisième obstacle porte sur la **qualité **des données. Le rapport de [l’Open Data Barometer](https://opendatabarometer.org/4thedition/report/) signale ainsi que “les données des gouvernements sont souvent incomplètes, pas actualisées, de mauvaise qualité et fragmentaires” et que  “de manière générale, la gestion et la publication des données ouvertes sont fragiles et sujettes à des erreurs multiples.” Cependant, la qualité ne peut être évaluée que par la confrontation entre des domaines de pratiques aux enjeux différents. En d’autres termes, la qualité des données ne dépend que de l’usage qui en est fait. Ce point rejoint le précédent : la documentation est indispensable pour que le public parvienne à saisir les usages précédents des données et les adapte à de nouveaux usages, souvent inconnus de celles et ceux qui les produisent. 
+Enfin, le troisième obstacle porte sur la **qualité** des données. Le rapport de [l’Open Data Barometer](https://opendatabarometer.org/4thedition/report/) signale ainsi que “les données des gouvernements sont souvent incomplètes, pas actualisées, de mauvaise qualité et fragmentaires” et que  “de manière générale, la gestion et la publication des données ouvertes sont fragiles et sujettes à des erreurs multiples.” Cependant, la qualité ne peut être évaluée que par la confrontation entre des domaines de pratiques aux enjeux différents. En d’autres termes, la qualité des données ne dépend que de l’usage qui en est fait. Ce point rejoint le précédent : la documentation est indispensable pour que le public parvienne à saisir les usages précédents des données et les adapte à de nouveaux usages, souvent inconnus de celles et ceux qui les produisent. 
 
  
 
@@ -42,13 +39,13 @@ Les ateliers devront ainsi permettre de favoriser la rencontre entre porteurs de
 
 # Objectifs et méthode des ateliers
 
-Les ateliers Data’ccélère dans le cadre du projet européen ODEON Interreg Med visent ainsi à répondre aux défis évoqués précédemment :  \
+Les ateliers Data’ccélère dans le cadre du projet européen ODEON Interreg Med visent ainsi à répondre aux défis évoqués précédemment : 
 
-*   Aider les porteurs de projet dans les trois domaines du programme (économies verte et bleue, industrie créative) à cerner le potentiel data de leur projet \
+*   Aider les porteurs de projet dans les trois domaines du programme (économies verte et bleue, industrie créative) à cerner le potentiel data de leur projet
 
-*   Démultiplier l’impact de projets en mobilisant les données ouvertes et en développant de nouvelles formes d’usage \
+*   Démultiplier l’impact de projets en mobilisant les données ouvertes et en développant de nouvelles formes d’usage
 
-*   Favoriser la rencontre entre porteurs de projets et producteurs de données ouvertes pour améliorer la qualité des données \
+*   Favoriser la rencontre entre porteurs de projets et producteurs de données ouvertes pour améliorer la qualité des données
 
 *   Faire émerger 3 projets emblématiques qui seront accompagnés en détail dans la mise en œuvre du plan de route data élaboré à l’issue des ateliers.  
 
@@ -73,9 +70,7 @@ Ensuite, les porteurs de projet devront remplir la “**Wanted Data List”** qu
 A ce stade, il convient de décrire les jeux de données de la manière la plus simple, sans a priori ni référence à un jeu ou un fournisseur de données particulier : c’est la nature des données qui nous intéresse. Par exemple :
 
 *   OK : sens de circulation des rues de Marseille.
-*   KO : SIG de la ville de Marseille (ça ne nous dit pas quelle donnée vous intéresse et ne permet donc pas de savoir si elle n’est pas plus accessible ailleurs). \
-
-
+*   KO : SIG de la ville de Marseille (ça ne nous dit pas quelle donnée vous intéresse et ne permet donc pas de savoir si elle n’est pas plus accessible ailleurs).
 
 ## Phase 2 : la collecte et l’évaluation des données
 
